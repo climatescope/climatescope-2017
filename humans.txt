@@ -1,0 +1,29 @@
+/* DEVELOPMENT SEED TEAM */
+
+Developer: Daniel da Silva
+Twitter: @danielfdsilva
+Location: Lisbon, Portugal
+
+Developer: Olaf Veerman
+Twitter: @oBirdman
+Location: Washington, D.C, USA
+
+UI Designer: Ricardo Mestre
+Twitter: @ricardoduplos
+Location: Lisbon, Portugal
+
+Developer: Derek Lieu
+Twitter: @dereklieu
+Location: Washington, D.C, USA
+
+Strategist: Ian Schuler
+Twitter: @ianschuler
+Location: Washington, D.C, USA
+
+
+/* SITE */
+
+Last update: 2018/10/04
+Standards: HTML5, CSS3, RWD 
+Components: Bootstrap (loosely based), Modernizr, jQuery, Selectivzr, Jekyll, AngularJS, D3.js, Mapbox, Natural Earth (data), Pandas                      
+Software: Sublime Text, Eclipse, Adobe Illustrator CC, GitHub (Mac)
