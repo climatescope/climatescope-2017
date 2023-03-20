@@ -102,4 +102,4 @@ None of these issues stands to be resolved entirely in the short-term but there 
 
 * Analyze country-level conditions for off-grid clean energy development through a [new data hub](/en/off-grid-data-hub/).
 
-* And explore more insights, tools and regular updates at [global-climatescope.org](http://www.global-climatescope.org)
+* And explore more insights, tools and regular updates at [global-climatescope.org](https://www.global-climatescope.org)

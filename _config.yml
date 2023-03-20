@@ -3,7 +3,7 @@ source:         app
 
 # Domain and path_prefix are neede for IE9 CORS.
 # More in: https://github.com/flipside-org/climatescope/issues/221
-domain:         http://2017.global-climatescope.org
+domain:         https://2017.global-climatescope.org
 path_prefix:    
 
 # Address of climatescope's proxy server.

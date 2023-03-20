@@ -10,4 +10,4 @@ Use this interactive data visualisation to explore the highlights of last year's
 
 #### [Link to data visualisation](https://www.bnef.com/dataview/climatescope-2015/index.html)
 
-#### [Climatescope 2015 - Full report](http://2015.global-climatescope.org/en/)
+#### [Climatescope 2015 - Full report](https://2015.global-climatescope.org/en/)

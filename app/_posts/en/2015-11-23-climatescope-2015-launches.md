@@ -59,7 +59,7 @@ The Multilateral Investment Fund (MIF), a member of the Inter-American Developme
 
 #### ABOUT BLOOMBERG NEW ENERGY FINANCE
 
-Bloomberg New Energy Finance (BNEF) provides unique analysis, tools and data for decision makers driving change in the energy system. BNEF has 200 staff based in 14 offices around the world. BNEF’s sectoral products provide financial, economic and policy analysis, as well as news and the world’s most comprehensive database of assets, investments, companies and equipment in the clean energy space.  BNEF’s regional products provide a comprehensive view on the transformation of the energy system by region. For more information on Bloomberg New Energy Finance: http://about.bnef.com, or contact us at sales.bnef@bloomberg.net for more information on our services.
+Bloomberg New Energy Finance (BNEF) provides unique analysis, tools and data for decision makers driving change in the energy system. BNEF has 200 staff based in 14 offices around the world. BNEF’s sectoral products provide financial, economic and policy analysis, as well as news and the world’s most comprehensive database of assets, investments, companies and equipment in the clean energy space.  BNEF’s regional products provide a comprehensive view on the transformation of the energy system by region. For more information on Bloomberg New Energy Finance: https://about.bnef.com, or contact us at sales.bnef@bloomberg.net for more information on our services.
 
 #### Media contacts
 

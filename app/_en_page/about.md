@@ -67,16 +67,16 @@ Veronika Henze
 Serina Ng, Jon Moore, Dharshan Wignarajah, Sara Giordano, Nico Tyabji, Arlinda Mezini, Benjamin Kafri, Eve Ottlakan, Flow Bohl, Max Duluc, Noemi Glickman, and the many energy sector stakeholders that our analyst teams met during research trips.
 
 ### Credits
-All satellite imagery by [NASA](http://earthobservatory.nasa.gov/?eocn=topnav&eoci=logo).
+All satellite imagery by [NASA](https://earthobservatory.nasa.gov/?eocn=topnav&eoci=logo).
 
 ### Previous supporters
 <ul class="logo-list">
-  <li><a class="logo-fomin" href="http://www.fomin.org/" title="" target="_blank"><img width="208" height="128" alt="" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-fomin-en-flat-pos.svg"><span>Multilateral Investment Fund</span></a></li>
-  <li><a class="logo-powerafrica" href="http://www.usaid.gov/powerafrica" title="Visit Power Africa" target="_blank"><img width="288" height="128" alt="Power Africa logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-powerafrica-flat-pos.svg"><span>Power Africa</span></a></li>
-  <li><a class="logo-usaid" href="http://www.usaid.gov" title="Visit USAID"  target="_blank"><img width="288" height="128" alt="USAID logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-usaid-flat-pos.svg" /><span>USAID</span></a></li>
+  <li><a class="logo-fomin" href="https://www.fomin.org/" title="" target="_blank"><img width="208" height="128" alt="" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-fomin-en-flat-pos.svg"><span>Multilateral Investment Fund</span></a></li>
+  <li><a class="logo-powerafrica" href="https://www.usaid.gov/powerafrica" title="Visit Power Africa" target="_blank"><img width="288" height="128" alt="Power Africa logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-powerafrica-flat-pos.svg"><span>Power Africa</span></a></li>
+  <li><a class="logo-usaid" href="https://www.usaid.gov" title="Visit USAID"  target="_blank"><img width="288" height="128" alt="USAID logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-usaid-flat-pos.svg" /><span>USAID</span></a></li>
 </ul>
 
 ### Developed by
 <ul class="logo-list">
-  <li><a class="logo-devseed" href="http://developmentseed.org/" title="Visit Development Seed" target="_blank"><img width="750" height="128" alt="Development Seed logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-devseed-flat-pos.svg" /><span>Development Seed</span></a></li>
+  <li><a class="logo-devseed" href="https://developmentseed.org/" title="Visit Development Seed" target="_blank"><img width="750" height="128" alt="Development Seed logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-devseed-flat-pos.svg" /><span>Development Seed</span></a></li>
 </ul>

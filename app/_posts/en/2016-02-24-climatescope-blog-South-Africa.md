@@ -8,7 +8,7 @@ description: South Africa is one of the most active clean energy markets. Read t
 
 South Africa has become one of the world’s most vibrant clean energy markets ever since it launched its auction program in 2011. The country confirmed its attractiveness in 2015 by ranking 4<sup>th</sup> out of 55 nations in Climatescope 2015, down one spot from the previous edition.
 
-Dr Rob Davies, Minister of Trade and Industry, [recently lauded](http://www.sanews.gov.za/features/south-africa-open-business) his country’s performance in the Climatescope ranking. He pointed to the fact that the clean energy sector had become one of the most reliable sources of foreign direct investment and activity in South Africa, at a time where many sectors are plagued by the rout in commodity prices and global macroeconomic headwinds.
+Dr Rob Davies, Minister of Trade and Industry, [recently lauded](https://www.sanews.gov.za/features/south-africa-open-business) his country’s performance in the Climatescope ranking. He pointed to the fact that the clean energy sector had become one of the most reliable sources of foreign direct investment and activity in South Africa, at a time where many sectors are plagued by the rout in commodity prices and global macroeconomic headwinds.
 
 South Africa’s government launched an ambitious plan to address the power shortages and reliability issues that have held back economic growth in 2010. The main goal is to more than double power generation capacity from 43 gigawatts to 89.5 gigawatts by 2030. But the country is also looking to reduce its reliance on fossil fuels (coal covers 85% of the countries power mix). Renewables play a central role with a target share of 20% in the total mix, including 9.2 gigawatts of wind and 8.4 gigawatts of solar PV. 
 
@@ -26,10 +26,10 @@ Bloomberg New Energy Finance
 
 ###LINKS TO RELATED CONTENT
 
-[Minister Rob Davies on Climatescope and investment opportunities in South Africa - 28 December 2015](http://www.sanews.gov.za/features/south-africa-open-business)
+[Minister Rob Davies on Climatescope and investment opportunities in South Africa - 28 December 2015](https://www.sanews.gov.za/features/south-africa-open-business)
 
 [Western Cape Government on the opening of the GRI wind tower manufacturing plant - 7 November 2014](https://www.westerncape.gov.za/speech/gri-south-africa-opens-new-wind-tower-mast-manufacturing-plant)
 
-[Mainstream Renewable Power announcing the opening of its manufacturing facilities in South Africa - 20 October 2015](http://mainstreamrp.com/mainstream-renewable-power-to-take-delivery-of-south-africas-largest-locally-manufactured-wind-turbine-tower-order/)
+[Mainstream Renewable Power announcing the opening of its manufacturing facilities in South Africa - 20 October 2015](https://mainstreamrp.com/mainstream-renewable-power-to-take-delivery-of-south-africas-largest-locally-manufactured-wind-turbine-tower-order/)
 
-[Review of South Africa's auction program by the Public-Private Infrastructure Advisory Facility (World Bank) - 2014](http://www.gsb.uct.ac.za/files/PPIAFReport.pdf)
+[Review of South Africa's auction program by the Public-Private Infrastructure Advisory Facility (World Bank) - 2014](https://www.gsb.uct.ac.za/files/PPIAFReport.pdf)
